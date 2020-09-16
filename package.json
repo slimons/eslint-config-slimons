@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-slimons",
+  "version": "1.0.1",
+  "description": "Slimons Javascript style guide",
+  "main": "index.js",
+  "author": "Javier Ponferrada López <jponferrada26@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/slimons/eslint-config-slimons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slimons/eslint-config-slimons.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "slimons"
+  ],
+  "peerDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-vue": "^5.0.0-beta.3"
+  }
+}
