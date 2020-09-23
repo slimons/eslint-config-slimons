@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-slimons",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Slimons Javascript style guide",
   "main": "index.js",
   "author": "Javier Ponferrada López <jponferrada26@gmail.com>",
@@ -17,9 +17,8 @@
     "slimons"
   ],
   "peerDependencies": {
-    "eslint": "^5.6.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-vue": "^5.0.0-beta.3"
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
